@@ -1,2 +1,2 @@
-# jupiterm
+# Jupiterm
 A Terminal Emulator
